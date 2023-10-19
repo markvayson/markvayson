@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, you can call me Mark</h1>
+<p align="center">👋 Hello, you can call me Mark</p>
 <p><h3>👀 Background</h3> I hold a Bachelor's degree in Computer Engineering, which has equipped me with a strong foundation in technology, programming, and problem-solving.</p>
 <p><h3>🌱 Passion for Web Development</h3> I am an enthusiastic web developer, driven by my unwavering commitment to lifelong learning. My journey in web development has been an exciting exploration of new technologies, coding languages, and design principles.</p>
 <p><h3>🔧 Skills</h3> I possess a diverse set of skills in web development, including proficiency in HTML, CSS, JavaScript, and various frameworks. I'm experienced in creating dynamic and responsive websites that not only function seamlessly but also provide an engaging user experience.</p>
